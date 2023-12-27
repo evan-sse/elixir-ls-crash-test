@@ -14,5 +14,7 @@ defmodule Errtest do
   """
   def hello do
     :world
+
+    Nothing.something()
   end
 end
